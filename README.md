@@ -1,6 +1,6 @@
-# IBM Cloud Pak for Data v5.1.3 Installation Guide in Red Hat OpenShift Container Platforn v4.16.38
+# IBM Cloud Pak for Data v5.2.0 Installation Guide in Red Hat OpenShift Container Platforn v4.18.38
 
-##### This document aims to demonstrate how the installation of ``Cloud Pak for Data`` in the ``OpenShift v4.16`` environment was executed, installation and configuration of instances of ``DB2, DB2 Data Management Console, Watson Machine Learning, Watson Studio, watsonx.governance, AI Factsheets, Watson OpenScale``.
+##### This document aims to demonstrate how the installation of ``Cloud Pak for Data`` in the ``OpenShift v4.18`` environment was executed, installation and configuration of instances of ``DB2, DB2 Data Management Console, Watson Machine Learning, Watson Studio, watsonx.governance, AI Factsheets, Watson OpenScale``.
 
 ## Services & integrations 
 
