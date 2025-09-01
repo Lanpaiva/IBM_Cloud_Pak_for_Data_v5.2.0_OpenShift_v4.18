@@ -1,0 +1,1 @@
+# IBM_Cloud_Pak_for_Data_v5.2.0_OpenShift_v4.18
